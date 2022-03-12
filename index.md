@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 📍 ToTheBorder
+title: 📍 totheborder
 permalink: /
 nav_order: 0
 ---
