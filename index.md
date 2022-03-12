@@ -5,7 +5,7 @@ permalink: /
 nav_order: 0
 ---
 
-{% include button.html text="**Supportaci con una donazione** 💶" link="https://www.eppela.com/projects/7678" color="blue" %} {% include button.html text="**Scopri cosa facciamo** 👐" link="/about" color="green" %}
+{% include button.html text="💶 **Supportaci con una donazione**" link="https://www.eppela.com/projects/7678" color="blue" %} {% include button.html text="👐 **Scopri cosa facciamo**" link="/about" color="green" %} {% include button.html text="🗺 **Seguici su Instagram**" link="https://instagram.com/_totheborder" color="orange" %}
 
 **Free buses to Italy 🇮🇹 for Ukrainian refugees 🇺🇦** <br/>
 **Безкоштовні автобуси до Італії 🇮🇹 для українських біженців 🇺🇦**
