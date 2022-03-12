@@ -44,4 +44,4 @@ The bus will call at: / Автобус буде ходити за адресою
 
 _Warning: the map does not represent the precise route and stops. / Увага: на карті немає точного маршруту та зупинок_
 
-<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1RDBPYBmVBTh5TUjMURHqqwDRRISlq2CX&ehbc=2E312F" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1RDBPYBmVBTh5TUjMURHqqwDRRISlq2CX&ehbc=2E312F" width="100%" height="480"></iframe>
