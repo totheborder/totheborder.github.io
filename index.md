@@ -17,10 +17,12 @@ nav_order: 0
 |----------|----------------------|------------|-----------------|
 | Friday   | П'ятниця 18 березня  | 18/03/2022 | 19:00 (7 PM)    |
 | Sunday   | неділя 20 березня    | 20/03/2022 | 10:00 (10 AM)   |  
+<br/>
 
+Departure from **Przemyśl**, PL 🇵🇱  at <a href="https://goo.gl/maps/9KvfgWvoYnhvFsC87" target="_blank">Przemyśl Railway Station</a><br/>
+Відправлення з **Перемишль**, PL 🇵🇱 на <a href="https://goo.gl/maps/9KvfgWvoYnhvFsC87" target="_blank">залізничному вокзалі Перемишля</a>
 
-Departure from **Przemyśl**, PL 🇵🇱  at <a href="https://goo.gl/maps/9KvfgWvoYnhvFsC87" target="_blank"/>Przemyśl Railway Station</a><br/>
-Відправлення з **Перемишль**, PL 🇵🇱 на <a href="https://goo.gl/maps/9KvfgWvoYnhvFsC87" target="_blank"/>залізничному вокзалі Перемишля</a>
+#### Bus stops / Автобусні зупинки
 
 The bus will call at: / Автобус буде ходити за адресою:
 
