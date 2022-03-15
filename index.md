@@ -17,6 +17,7 @@ nav_order: 0
 |----------|----------------------|------------|-----------------|
 | Friday   | П'ятниця 18 березня  | 18/03/2022 | 19:00 (7 PM)    |
 | Sunday   | неділя 20 березня    | 20/03/2022 | 10:00 (10 AM)   |  
+
 <br/>
 
 Departure from **Przemyśl**, PL 🇵🇱  at <a href="https://goo.gl/maps/9KvfgWvoYnhvFsC87" target="_blank">Przemyśl Railway Station</a><br/>
@@ -33,6 +34,8 @@ The bus will call at: / Автобус буде ходити за адресою
 | Bologna   | Болонья | 🇮🇹 IT |
 | Rimini    | Ріміні  | 🇮🇹 IT |
 
+<br/>
+
 #### Journey / подорож
 
 _Warning: the map does not represent the precise route and stops. / Увага: на карті немає точного маршруту та зупинок_
@@ -45,3 +48,5 @@ _Warning: the map does not represent the precise route and stops. / Увага: 
 | Elene      | <a href="tel:+393887879033">+39 388 7879033</a> | <a href="https://wa.me/+393887879033">WhatsApp</a> |
 | Stefano    | <a href="tel:+393406833696">+39 340 6833696</a> | <a href="https://wa.me/+393406833696">WhatsApp</a> |
 | Francesco  | <a href="tel:+393938279068">+39 393 8279068</a> | <a href="https://wa.me/+393938279068">WhatsApp</a> |
+
+<br/>
