@@ -14,34 +14,32 @@ nav_order: 0
 
 ## Next departures / Наступні виїзди
 
-|----------|----------|------------|----------|
-| Sunday   | неділя   | 13/03/2022 | 10:00 AM |
+|----------|----------------------|------------|-----------------|
+| Friday   | П'ятниця 18 березня  | 18/03/2022 | 19:00 (7 PM)    |
+| Sunday   | неділя 20 березня    | 20/03/2022 | 10:00 (10 AM)   |  
 
-<br/> 
 
-### Information / інформації
-
-Departure from **Przemyśl**, PL 🇵🇱  at Tesco Supermarket <br/>
-Відправлення з **Перемишль**, PL 🇵🇱 в Tesco Supermarket
+Departure from **Przemyśl**, PL 🇵🇱  at <a href="https://goo.gl/maps/9KvfgWvoYnhvFsC87" target="_blank"/>Przemyśl Railway Station</a><br/>
+Відправлення з **Перемишль**, PL 🇵🇱 на <a href="https://goo.gl/maps/9KvfgWvoYnhvFsC87" target="_blank"/>залізничному вокзалі Перемишля</a>
 
 The bus will call at: / Автобус буде ходити за адресою:
 
 |-----------|---------|-------|
-| Medyka    | Медика  | PL 🇵🇱 |
-| Krakow    | Краків  | PL 🇵🇱 |
-| Ostrava   | Острава | CZ 🇨🇿 |
-| Brno      | Брно    | CZ 🇨🇿 | 
-| Vienna    | Відень  | AT 🇦🇹 |
-| Graz      | Грац    | AT 🇦🇹 |
-| Trieste   | Трієст  | IT 🇮🇹 |
-| Padua     | Падуя   | IT 🇮🇹 |
-| Bologna   | Болонья | IT 🇮🇹 |
-| Rimini    | Ріміні  | IT 🇮🇹 |
-
-<br/>
+| Krakow    | Краків  | 🇵🇱 PL |
+| Trieste   | Трієст  | 🇮🇹 IT |
+| Padua     | Падуя   | 🇮🇹 IT |
+| Bologna   | Болонья | 🇮🇹 IT |
+| Rimini    | Ріміні  | 🇮🇹 IT |
 
 #### Journey / подорож
 
 _Warning: the map does not represent the precise route and stops. / Увага: на карті немає точного маршруту та зупинок_
 
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1RDBPYBmVBTh5TUjMURHqqwDRRISlq2CX&ehbc=2E312F" width="100%" height="480"></iframe>
+
+## Bookings and information / Бронювання та інформація
+
+|------------|-----------------|-------------|
+| Elene      | <a href="tel:+393887879033">+39 388 7879033</a> | <a href="https://wa.me/+393887879033">WhatsApp</a> |
+| Stefano    | <a href="tel:+393406833696">+39 340 6833696</a> | <a href="https://wa.me/+393406833696">WhatsApp</a> |
+| Francesco  | <a href="tel:+393938279068">+39 393 8279068</a> | <a href="https://wa.me/+393938279068">WhatsApp</a> |
