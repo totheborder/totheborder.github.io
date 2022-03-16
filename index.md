@@ -10,7 +10,7 @@ nav_order: 0
 **Free buses to Italy 🇮🇹 for Ukrainian refugees 🇺🇦** <br/>
 **Безкоштовні автобуси до Італії 🇮🇹 для українських біженців 🇺🇦**
 
-<img src="/assets/home.jpg"/>
+<img src="/assets/about-1.jpg"/>
 
 ## Next departures / Наступні виїзди
 
