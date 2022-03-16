@@ -5,7 +5,9 @@ permalink: /about
 nav_order: 1
 ---
 
-<img src="/assets/about-1.jpg"/>
+<a href="https://www.eppela.com/projects/7678" target="_blank"><img src="/assets/btn_charity.svg" alt="Supportaci con una donazione"/></a><br/>
+
+<img src="/assets/eppela-header.jpg"/>
 
 5 viaggi, 8 accompagnatori, più di 130 persone portate a casa in 2 giorni. 
 

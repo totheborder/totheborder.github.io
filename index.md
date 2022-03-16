@@ -5,10 +5,15 @@ permalink: /
 nav_order: 0
 ---
 
-{% include button.html text="💶 **Supportaci con una donazione**" link="https://www.eppela.com/projects/7678" color="blue" %} {% include button.html text="👐 **Scopri cosa facciamo**" link="/about" color="green" %} {% include button.html text="🗺 **Seguici su Instagram**" link="https://instagram.com/_totheborder" color="orange" %}
-
 **Free buses to Italy 🇮🇹 for Ukrainian refugees 🇺🇦** <br/>
 **Безкоштовні автобуси до Італії 🇮🇹 для українських біженців 🇺🇦**
+
+<a href="https://www.eppela.com/projects/7678" target="_blank"><img src="/assets/btn_charity.svg" alt="Supportaci con una donazione"/></a><br/>
+<a href="/about"><img src="/assets/btn_about.svg" alt="Scopri cosa stiamo facendo"/></a><br/>
+
+#### Segui il nostro viaggio / Follow our journey: 
+
+<a href="https://instagram.com/_totheborder"><img src="/assets/btn_instagram.svg" alt="Seguici su Instagram"/></a>&nbsp;<a href="/updates"><img src="/assets/btn_blog.svg" alt="Seguici sul blog"/></a>
 
 <img src="/assets/about-1.jpg"/>
 
@@ -17,8 +22,6 @@ nav_order: 0
 |----------|----------------------|------------|-----------------|
 | Friday   | П'ятниця 18 березня  | 18/03/2022 | 19:00 (7 PM)    |
 | Sunday   | неділя 20 березня    | 20/03/2022 | 10:00 (10 AM)   |  
-
-<br/>
 
 Departure from **Przemyśl**, PL 🇵🇱  at <a href="https://goo.gl/maps/9KvfgWvoYnhvFsC87" target="_blank">Przemyśl Railway Station</a><br/>
 Відправлення з **Перемишль**, PL 🇵🇱 на <a href="https://goo.gl/maps/9KvfgWvoYnhvFsC87" target="_blank">залізничному вокзалі Перемишля</a>
