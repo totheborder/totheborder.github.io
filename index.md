@@ -20,8 +20,7 @@ nav_order: 0
 ## Next departures / Наступні виїзди
 
 |----------|----------------------|------------|-----------------|
-| Friday   | П'ятниця 18 березня  | 18/03/2022 | 19:00 (7 PM)    |
-| Sunday   | неділя 20 березня    | 20/03/2022 | 10:00 (10 AM)   |  
+| Tuesday   | Вівторок, 22 березня | 22/03/2022 | 19:00 (7 PM)    | 
 
 Departure from **Przemyśl**, PL 🇵🇱  at <a href="https://goo.gl/maps/9KvfgWvoYnhvFsC87" target="_blank">Przemyśl Railway Station</a><br/>
 Відправлення з **Перемишль**, PL 🇵🇱 на <a href="https://goo.gl/maps/9KvfgWvoYnhvFsC87" target="_blank">залізничному вокзалі Перемишля</a>
@@ -32,10 +31,10 @@ The bus will call at: / Автобус буде ходити за адресою
 
 |-----------|---------|------------------------------------|-------|
 | Krakow    | Краків  | <a href="https://g.page/MercureKrakowStareMiasto?share" target="_blank">Hotel Mercure Krakow Stare Miasto</a>  | 🇵🇱 PL |
-| Trieste   | Трієст  |                                    | 🇮🇹 IT |
-| Padua     | Падуя   | <a href="https://goo.gl/maps/1Ew9dwuqS6XyTyb38" target="_blank">Parcheggio Padova Zona Industriale</a> | 🇮🇹 IT |
-| Bologna   | Болонья | <a href="https://goo.gl/maps/HHe7rnSBaCyjZmDz6" target="_blank">Bologna Autostazione</a>               | 🇮🇹 IT |
-| Rimini    | Ріміні  | <a href="https://goo.gl/maps/4cKwb3YsEiAQuyRv8" target="_blank">Liceo Einstein (Colonnella)</a>        | 🇮🇹 IT |
+| Padua     | Падуя   | <a href="https://goo.gl/maps/HLFtKfgcjVCizMwQ7" target="_blank">Casello Padova Est IKEA</a> | 🇮🇹 IT |
+| Verona   | Верона | <a href="https://goo.gl/maps/dFK8tKwBhiJq1WQj6" target="_blank">Casello Verona Sud</a>               | 🇮🇹 IT |
+| Milan    | Мілан  | <a href="https://goo.gl/maps/3F3ABZD2MuwteHTh9" target="_blank">Sesto Rondò M1</a>        | 🇮🇹 IT |
+| Turin    | Турин  | <a href="https://goo.gl/maps/E4tNB6oPUtT4xWPW6" target="_blank">Sermig Arsenale della Pace</a>        | 🇮🇹 IT |
 
 <br/>
 
